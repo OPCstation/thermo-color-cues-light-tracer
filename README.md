@@ -480,6 +480,7 @@ To read:
 - Claus O. Wilke – [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html) (2019)
 - Nicolas P. Rougier – [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html) (2021)
 - [Preparing figures for publication and presentations](https://www.mrl.ucsb.edu/~seshadri/Seshadri-PreparingFigures-2018.pdf) by [Ram Seshadri](https://scholar.google.com/citations?user=WYnzkIIAAAAJ&hl=en) (2018)
+- [Choosing a Presentation Pointer When Color Is Hard to Distinguish](https://light-tracer.com/presentation-pointer-color-hard-to-distinguish/) – Light Tracer, a commercial publisher: use labels, position and shapes alongside color, distinguish software cues from physical pointing, and check the actual audience view. Free guide; no account required.
 
 To use:
 
